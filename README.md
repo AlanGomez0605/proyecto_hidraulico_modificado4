@@ -1,3 +1,3 @@
 # Proyecto Hidraulico
-Este proyecto muestra un mapa hidráulico de Hidalgo.
-La versión actual simplemente sirve una imagen estática desde la carpeta `static`.
+Este proyecto muestra información sobre ríos, lagos y presas en Hidalgo.
+La versión actual no presenta ningún mapa, solo una página sencilla renderizada con Flask.
